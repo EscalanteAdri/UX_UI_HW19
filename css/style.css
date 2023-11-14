@@ -82,7 +82,7 @@ nav {
 
 nav a{
     color: black;
-
+    text-decoration: none;
 }
 
 nav a li:hover{
