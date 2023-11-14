@@ -171,6 +171,8 @@ footer a{
     display: inline-block;
     margin: 5px;
     width: auto;
+    border-radius: 10px;
+
 }
 
 .flex {
